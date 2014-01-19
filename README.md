@@ -18,9 +18,11 @@ ATLauncher is a Launcher for Minecraft which integrates multiple different ModPa
 
 ### Things to Note
 
-To start a new translation simply fork this repository and copy the English.lang file and rename it to "language.lang", for instance, Russian.lang. Naming isn't important as it's renamed where appropriate.
+To start a new translation simply fork this repository and copy the English.lang file and rename it to 'language.lang', for instance, 'russian.lang'. Naming isn't important as it's renamed where appropriate.
 
-Once copied over, simply make changes to the file and translate the text to your langauge. Once complete simply make a pull request with your langauge file. New translations are added to the original English.lang file every now and then so watch the repository for changes.
+Once copied over, simply make changes to the file and translate the text to your langauge. Once complete simply make a pull request with your langauge file. New translations are added to the original 'english.lang' file every now and then so watch the repository for changes.
+
+Be aware that not all languages are complete and some are missing lines from the 'english.lang' file.
 
 If you don't want to translate via GitHub then simply take the English.lang file and translate it and email it to translations@atlauncher.com
 
